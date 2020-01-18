@@ -1,2 +1,2 @@
 # Projeto-Conversao-Automatos
-A project created to make the conversion of NfAs to DFAs.
+A project created to make the conversion of NFAs to DFAs.
